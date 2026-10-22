@@ -20,22 +20,6 @@ Transform raw ideas, messy PRDs, and business requirements into structured engin
 
 ---
 
-## 📌 GitHub Repository Details (Copy & Paste)
-
-Use these details when creating or updating your repository on GitHub:
-
-* **Repository Name:** `requiflow`
-* **Short Description (GitHub About — Under 350 chars):**
-  > AI-powered requirements engineering platform that turns raw project briefs into structured specs, system architectures, interactive Mermaid diagrams, sprint task breakdowns, and developer-ready Agile user stories with acceptance criteria via autonomous multi-agent orchestration.
-* **One-Line Tagline:**
-  > Autonomous Multi-Agent AI Platform for Software Requirements, System Architecture & Agile Backlogs.
-* **Suggested GitHub Topics / Tags:**
-  ```text
-  ai-agents, requirements-engineering, langchain, groq, llama-3, product-management, agile, user-stories, software-architecture, mermaid-js, react, vite, flask, postgresql, glassmorphism, python
-  ```
-
----
-
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
